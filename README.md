@@ -6,10 +6,9 @@ This project is based on the MS tutorial regarding ASP.Net Core on Razor Pages w
 
 ## SECTIONS
 
-- [x] Overview
 - [x] Get started
 - [ ] Create, Read, Update and Delete
-- [ ] Sort, Filter, Page and Group
+- [ ] Sort, filter, page and group
 - [ ] Migrations
 - [ ] Create a complex data model
 - [ ] Read related data

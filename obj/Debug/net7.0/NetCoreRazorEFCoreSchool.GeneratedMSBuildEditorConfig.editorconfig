@@ -9,37 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NetCoreRazorEFCoreSchool
 build_property.RootNamespace = NetCoreRazorEFCoreSchool
-build_property.ProjectDir = d:\my-workspace\NetCoreRazorEFCoreSchool\
+build_property.ProjectDir = D:\my-workspace\NetCoreRazorEFCoreSchool\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\my-workspace\NetCoreRazorEFCoreSchool
+build_property.MSBuildProjectDirectory = D:\my-workspace\NetCoreRazorEFCoreSchool
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Error.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Index.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Privacy.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/_ViewImports.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/_ViewStart.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Shared/_Layout.cshtml]
+[D:/my-workspace/NetCoreRazorEFCoreSchool/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p18e87ac86

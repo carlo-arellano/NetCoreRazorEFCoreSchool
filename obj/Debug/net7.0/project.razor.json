@@ -16555,6 +16555,11 @@
   "RootNamespace": "NetCoreRazorEFCoreSchool",
   "Documents": [
     {
+      "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16565,6 +16570,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -16572,6 +16587,16 @@
     {
       "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\my-workspace\\NetCoreRazorEFCoreSchool\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
