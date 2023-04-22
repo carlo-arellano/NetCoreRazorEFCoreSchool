@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using NetCoreRazorEFCoreSchool.Models;
-using NetCoreRazorEFSchool.Data;
+using NetCoreRazorEFCoreSchool.Data;
 
 namespace NetCoreRazorEFCoreSchool.Pages.Students
 {
   public class DeleteModel : PageModel
   {
-    private readonly NetCoreRazorEFSchool.Data.SchoolContext _context;
+    private readonly NetCoreRazorEFCoreSchool.Data.SchoolContext _context;
 
-    public DeleteModel(NetCoreRazorEFSchool.Data.SchoolContext context)
+    public DeleteModel(NetCoreRazorEFCoreSchool.Data.SchoolContext context)
     {
       _context = context;
     }

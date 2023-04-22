@@ -1,5 +1,5 @@
 using NetCoreRazorEFCoreSchool.Models.SchoolViewModels;
-using NetCoreRazorEFSchool.Data;
+using NetCoreRazorEFCoreSchool.Data;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;

@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using NetCoreRazorEFCoreSchool.Data;
-using NetCoreRazorEFSchool.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

@@ -7,15 +7,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using NetCoreRazorEFCoreSchool.Models;
-using NetCoreRazorEFSchool.Data;
+using NetCoreRazorEFCoreSchool.Data;
 
 namespace NetCoreRazorEFCoreSchool.Pages.Students
 {
   public class EditModel : PageModel
   {
-    private readonly NetCoreRazorEFSchool.Data.SchoolContext _context;
+    private readonly NetCoreRazorEFCoreSchool.Data.SchoolContext _context;
 
-    public EditModel(NetCoreRazorEFSchool.Data.SchoolContext context)
+    public EditModel(NetCoreRazorEFCoreSchool.Data.SchoolContext context)
     {
       _context = context;
     }

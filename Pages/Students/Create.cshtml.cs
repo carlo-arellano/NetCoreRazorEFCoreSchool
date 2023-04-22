@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using NetCoreRazorEFCoreSchool.Models;
-using NetCoreRazorEFSchool.Data;
+using NetCoreRazorEFCoreSchool.Data;
 
 namespace NetCoreRazorEFCoreSchool.Pages.Students
 {
   public class CreateModel : PageModel
   {
-    private readonly NetCoreRazorEFSchool.Data.SchoolContext _context;
+    private readonly NetCoreRazorEFCoreSchool.Data.SchoolContext _context;
 
-    public CreateModel(NetCoreRazorEFSchool.Data.SchoolContext context)
+    public CreateModel(NetCoreRazorEFCoreSchool.Data.SchoolContext context)
     {
       _context = context;
     }
