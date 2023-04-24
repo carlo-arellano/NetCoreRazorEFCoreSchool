@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -23,6 +21,8 @@ namespace NetCoreRazorEFCoreSchool.Models
     public DateTime StartDate { get; set; }
 
     public int? InstructorID { get; set; }
+
+    public Guid ConcurrencyToken { get; set; } = Guid.NewGuid();
 
     public Instructor Administrator { get; set; }
     public ICollection<Course> Courses { get; set; }
